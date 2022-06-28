@@ -115,4 +115,4 @@ function TyperSetup() {
   }
 }
 
-TyperSetup();
+window.TyperSetup = TyperSetup;
